@@ -1,7 +1,3 @@
-Here's a sample README file template for your RAG (Retrieval-Augmented Generation) question-answering system using LLaMA:
-
----
-
 # RAG Question Answering System with LLaMA
 
 This repository contains the implementation of a **Question Answering System** using **RAG (Retrieval-Augmented Generation)** with the **LLaMA model**. The system allows users to input questions and receive contextually relevant answers by leveraging pre-existing documents for enhanced accuracy.
